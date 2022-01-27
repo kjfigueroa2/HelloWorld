@@ -13,5 +13,5 @@ function draw() {
   background(0);
 
   fill(255,182,193);
-  text('Hello, World', width/2, height/2);
+  text('Hello, World', width/2, 120);
 }
